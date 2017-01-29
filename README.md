@@ -1,3 +1,3 @@
 # Repa
-Kurakina Anastasiya 
+Kurakina Anastasiya Yuryevna
 group:2341
